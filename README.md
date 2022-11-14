@@ -8,6 +8,19 @@ train.ipynb 코드는 gpu 환경에서 실행 되어야 함.
 
 ## 2. 예측
 train.ipynb 코드를 실행하거나 학습 완료 된 모델을 따로 saved_model5 경로에 넣어준 후 predict.ipynb 실행.  
+(10개 파일의 경로, 파일명)  
+saved_model5/polarity_classificationsaved_model_epoch_0.pt  
+saved_model5/polarity_classificationsaved_model_epoch_1.pt  
+saved_model5/polarity_classificationsaved_model_epoch_2.pt  
+saved_model5/polarity_classificationsaved_model_epoch_3.pt  
+saved_model5/polarity_classificationsaved_model_epoch_4.pt  
+  
+saved_model5/category_extractionsaved_model_epoch_0.pt  
+saved_model5/category_extractionsaved_model_epoch_1.pt  
+saved_model5/category_extractionsaved_model_epoch_2.pt  
+saved_model5/category_extractionsaved_model_epoch_3.pt  
+saved_model5/category_extractionsaved_model_epoch_4.pt  
+
 
 predict.ipynb 코드는 cpu 환경에서 실행 가능.  
 
