@@ -10,6 +10,7 @@
 ## 2. 예측  
 
 2_1. train.ipynb 코드를 실행하거나 학습 완료 된 모델을 따로 saved_model5 경로에 넣어준 후 predict.ipynb 실행.  
+모델 다운로드 경로 : https://drive.google.com/drive/folders/1UtBbu2LRpFU9cq8fjKz0cLQb2YbIzODQ?usp=sharing  
 (10개 파일의 경로, 파일명)  
 saved_model5/polarity_classificationsaved_model_epoch_0.pt  
 saved_model5/polarity_classificationsaved_model_epoch_1.pt  
