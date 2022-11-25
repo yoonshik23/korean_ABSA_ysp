@@ -1,4 +1,5 @@
-# korean_ABSA_ysp
+# korean_ABSA_ysp  
+국립국어원 말뭉치 대회 작성 코드  
 ## 1. 학습  
 
 1_1. data 경로에 대회에서 제공한 nikluge-sa-2022-train.jsonl, nikluge-sa-2022-dev.jsonl 파일 넣고, train.ipynb의 train_data_path, dev_data_path 경로 수정하기.  
